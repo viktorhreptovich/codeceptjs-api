@@ -1,4 +1,4 @@
-Clicking [this link](#1.1-My-First-Header) will scroll
+Clicking [this link](#11-my-first-header) will scroll
 
 # API Testing with codeceptjs
 
