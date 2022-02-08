@@ -1,6 +1,7 @@
+Clicking [this link](#1.1-My-First-Header) will scroll
+
 # API Testing with codeceptjs
 
-Clicking [this link](#1.1-My-First-Header) will scroll
 
 sdafasdf
 
