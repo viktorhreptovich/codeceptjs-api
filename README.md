@@ -1,96 +1,7 @@
 # codeceptjs rest api demo
 
-Clicking [this link](#contract) will scroll
-
-sdafasdf
-
-sadfasdf
-
-asdfasdf
-
-sdafasdf
-
-sadfasdf
-
-asdfasdf
-
-sdafasdf
-
-sadfasdf
-
-asdfasdf
-
-sdafasdf
-
-sadfasdf
-
-asdfasdf
-
-sdafasdf
-
-sadfasdf
-
-sdafasdf
-
-sadfasdf
-
-asdfasdf
-
-sdafasdf
-
-sadfasdf
-
-asdfasdf
-
-sdafasdf
-
-sadfasdf
-
-asdfasdf
-
-sdafasdf
-
-sadfasdf
-
-asdfasdf
-
-sdafasdf
-
-sadfasdf
-
-sdafasdf
-
-sadfasdf
-
-asdfasdf
-
-sdafasdf
-
-sadfasdf
-
-asdfasdf
-
-sdafasdf
-
-sadfasdf
-
-asdfasdf
-
-sdafasdf
-
-sadfasdf
-
-asdfasdf
-
-sdafasdf
-
-sadfasdf
-
-asdfasdf
-
-***
 # Contract
-### Generate json schema
+## Generate json schema
 
 https://www.jsonschema.net/home
 
@@ -108,7 +19,7 @@ https://www.jsonschema.net/home
 ![](readme/jsonshema.jpg)
 2. Insert your json, check it is valid and press "SUBMIT". Json schema will be generated. 
 3. Copy generated schema to clipboard and create <json_shema>.json file.
-### Convert json schema to joi   
+## Convert json schema to joi   
 
 1. Install a utility to convert JSON schema (draft 4) to Joi validation schema
 https://www.npmjs.com/package/json-schema-to-joi
@@ -128,4 +39,4 @@ const Joi = require('joi');
 
 module.exports.<contract_name> = Joi.object()
 ```
-***
+
